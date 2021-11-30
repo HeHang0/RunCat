@@ -76,7 +76,7 @@ namespace RunCat
             memoryAvailable = new PerformanceCounter("Memory", "Available MBytes");
             _ = cpuUsage.NextValue();
             _ = memoryAvailable.NextValue();
-            string networkInstanceName = PerformanceInstanceName("Network Interface", "Bytes Received/sec");//"Bytes Total/sec"
+            string networkInstanceName = PerformanceInstanceName("Network Interface", "Bytes Total/sec");//"Bytes Received/sec"
             if (!string.IsNullOrWhiteSpace(networkInstanceName))
             {
                 networkTotal = new PerformanceCounter("Network Interface", "Bytes Received/sec", networkInstanceName);
@@ -85,7 +85,7 @@ namespace RunCat
             string temperatureInstanceName = PerformanceInstanceName("Thermal Zone Information", "Temperature");
             if (!string.IsNullOrWhiteSpace(temperatureInstanceName))
             {
-                temperatureUsage = new PerformanceCounter("Thermal Zone Information", "Temperature", networkInstanceName);
+                temperatureUsage = new PerformanceCounter("Thermal Zone Information", "Temperature", temperatureInstanceName);
                 _ = temperatureUsage.NextValue(); // discards first return value
             }
             else if(Hardware.IsRunAsAdmin())
@@ -229,7 +229,7 @@ namespace RunCat
 
             if (temperatureUsage != null)
             {
-                float t = temperatureUsage.NextValue();
+                float t = temperatureUsage.NextValue() - (float)273.15;
                 if (settings.Performance == PerformanceType.Temperature) s = t;
                 text += $"\nTemperature: {t:f1}℃";
             }
