@@ -36,9 +36,7 @@ namespace RunCat
         private Icon[] icons;
         public MainWindow()
         {
-            this.UpdateStyleAttributes();
-            Hide();
-            Init();
+            InitializeComponent();
             Closing += MainWindow_Closing;
         }
 
@@ -164,16 +162,16 @@ namespace RunCat
             CPUTick();
             StartObserveCPU();
             current = 1;
-            SourceInitialized += MainWindow_SourceInitialized;
         }
 
         private void MainWindow_SourceInitialized(object sender, EventArgs e)
         {
-            IntPtr hwnd;
-            if ((hwnd = new WindowInteropHelper(sender as Window).Handle) == IntPtr.Zero)
-                throw new InvalidOperationException("Could not get window handle.");
-
-            HwndSource.FromHwnd(hwnd).AddHook(WndProc);
+            IntPtr wptr = new WindowInteropHelper(this).Handle;
+            HwndSource hs = HwndSource.FromHwnd(wptr);
+            hs.AddHook(new HwndSourceHook(WndProc));
+            this.Visibility = Visibility.Hidden;
+            this.Hide();
+            Init();
         }
 
         const int WM_DWMCOLORIZATIONCOLORCHANGED = 0x320;
@@ -273,6 +271,7 @@ namespace RunCat
         private void SetRunner(object sender, EventArgs e)
         {
             MenuItem item = (MenuItem)sender;
+            UpdateCheckedState(item, runnerMenu);
             settings.Runner = (RunnerIcon)item.Tag;
             SetIcons();
         }

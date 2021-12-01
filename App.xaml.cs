@@ -17,17 +17,18 @@ namespace RunCat
             var executingAssemblyName = executingAssembly.GetName();
             var resName = executingAssemblyName.Name + ".resources";
 
-            AssemblyName assemblyName = new AssemblyName(args.Name); string path = "";
+            AssemblyName assemblyName = new AssemblyName(args.Name); 
+            string path = "";
             if (resName == assemblyName.Name)
             {
                 path = executingAssemblyName.Name + ".g.resources"; ;
             }
-            else
+            else if(assemblyName.CultureInfo != null)
             {
                 path = assemblyName.Name + ".dll";
                 if (assemblyName.CultureInfo.Equals(CultureInfo.InvariantCulture) == false)
                 {
-                    path = String.Format(@"{0}\{1}", assemblyName.CultureInfo, path);
+                    path = string.Format(@"{0}\{1}", assemblyName.CultureInfo, path);
                 }
             }
 
