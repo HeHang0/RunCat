@@ -77,7 +77,8 @@ namespace RunCat
     public enum WindowsTheme
     {
         Light,
-        Dark
+        Dark,
+        Default
     }
 
     public enum RunnerIcon

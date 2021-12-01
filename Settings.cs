@@ -116,6 +116,12 @@ namespace RunCat
             get { return _performance; }
             set { _performance = value; }
         }
+        private WindowsTheme _customTheme = WindowsTheme.Default;
+        public WindowsTheme CustomTheme
+        {
+            get { return _customTheme; }
+            set { _customTheme = value; }
+        }
 
     }
 }

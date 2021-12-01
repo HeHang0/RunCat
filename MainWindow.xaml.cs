@@ -28,6 +28,7 @@ namespace RunCat
         private PerformanceCounter temperatureUsage = null;
         private Hardware hardware = null;
         private MenuItem runnerMenu;
+        private MenuItem themeMenu;
         private MenuItem performanceMenu;
         private MenuItem startupMenu;
         private NotifyIcon notifyIcon;
@@ -109,6 +110,25 @@ namespace RunCat
                     Tag = RunnerIcon.Parrot
                 }
             });
+
+            themeMenu = new MenuItem("Theme", new MenuItem[]
+            {
+                new MenuItem("Default", SetTheme)
+                {
+                    Checked = settings.CustomTheme == WindowsTheme.Default,
+                    Tag = WindowsTheme.Default
+                },
+                new MenuItem("Light", SetTheme)
+                {
+                    Checked = settings.CustomTheme == WindowsTheme.Light,
+                    Tag = WindowsTheme.Light
+                },
+                new MenuItem("Dark", SetTheme)
+                {
+                    Checked = settings.CustomTheme == WindowsTheme.Dark,
+                    Tag = WindowsTheme.Dark
+                }
+            });
             if (temperatureUsage == null && hardware == null && settings.Performance == PerformanceType.Temperature)
             {
                 settings.Performance = PerformanceType.CPU;
@@ -148,7 +168,7 @@ namespace RunCat
             {
                 startupMenu.Checked = true;
             }
-            MenuItem[] childen = new MenuItem[] { runnerMenu, performanceMenu, startupMenu, new MenuItem("Exit", Exit) };
+            MenuItem[] childen = new MenuItem[] { runnerMenu, themeMenu, performanceMenu, startupMenu, new MenuItem("Exit", Exit) };
 
             notifyIcon = new NotifyIcon()
             {
@@ -276,6 +296,14 @@ namespace RunCat
             SetIcons();
         }
 
+        private void SetTheme(object sender, EventArgs e)
+        {
+            MenuItem item = (MenuItem)sender;
+            UpdateCheckedState(item, themeMenu);
+            settings.CustomTheme = (WindowsTheme)item.Tag;
+            SetIcons();
+        }
+
         private void UpdateCheckedState(MenuItem sender, MenuItem menu)
         {
             foreach (MenuItem item in menu.MenuItems)
@@ -299,9 +327,11 @@ namespace RunCat
             System.Resources.ResourceManager rm = Properties.Resources.ResourceManager;
             int capacity = settings.Runner == RunnerIcon.Cat ? 5 : 10;
             List<Icon> list = new List<Icon>(capacity);
+            var theme = systemTheme;
+            if (settings.CustomTheme != WindowsTheme.Default) theme = settings.CustomTheme;
             for (int i = 0; i < capacity; i++)
             {
-                list.Add((Icon)rm.GetObject($"{(systemTheme == WindowsTheme.Dark ? "dark" : "light")}_{(settings.Runner == RunnerIcon.Parrot ? "parrot" : "cat")}_{i}"));
+                list.Add((Icon)rm.GetObject($"{(theme == WindowsTheme.Dark ? "dark" : "light")}_{(settings.Runner == RunnerIcon.Parrot ? "parrot" : "cat")}_{i}"));
             }
             icons = list.ToArray();
         }
