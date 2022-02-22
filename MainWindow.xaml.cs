@@ -110,6 +110,19 @@ namespace RunCat
                     Tag = RunnerIcon.Parrot
                 }
             });
+            RunnerIcon instance = new RunnerIcon();
+            System.Reflection.FieldInfo[] properties = instance.GetType().GetFields();
+            foreach (System.Reflection.FieldInfo item in properties)
+            {
+                string name = item.Name;
+                if (name == "Cat" || name == "Parrot") continue;
+                string value = (string)item.GetValue(instance);
+                runnerMenu.MenuItems.Add(new MenuItem(name, SetRunner)
+                {
+                    Checked = settings.Runner == value,
+                    Tag = value
+                });
+            }
 
             themeMenu = new MenuItem("Theme", new MenuItem[]
             {
@@ -189,8 +202,8 @@ namespace RunCat
             IntPtr wptr = new WindowInteropHelper(this).Handle;
             HwndSource hs = HwndSource.FromHwnd(wptr);
             hs.AddHook(new HwndSourceHook(WndProc));
-            this.Visibility = Visibility.Hidden;
-            this.Hide();
+            Visibility = Visibility.Hidden;
+            Hide();
             Init();
         }
 
@@ -292,7 +305,7 @@ namespace RunCat
         {
             MenuItem item = (MenuItem)sender;
             UpdateCheckedState(item, runnerMenu);
-            settings.Runner = (RunnerIcon)item.Tag;
+            settings.Runner = (string)item.Tag;
             SetIcons();
         }
 
@@ -324,15 +337,34 @@ namespace RunCat
 
         private void SetIcons()
         {
-            System.Resources.ResourceManager rm = Properties.Resources.ResourceManager;
-            int capacity = settings.Runner == RunnerIcon.Cat ? 5 : 10;
-            List<Icon> list = new List<Icon>(capacity);
+            System.Resources.ResourceManager resourceManager = Properties.Resources.ResourceManager;
+            List<Icon> list = new List<Icon>();
             var theme = systemTheme;
             if (settings.CustomTheme != WindowsTheme.Default) theme = settings.CustomTheme;
-            for (int i = 0; i < capacity; i++)
+            int i = 0;
+            Icon icon = null;
+            do
             {
-                list.Add((Icon)rm.GetObject($"{(theme == WindowsTheme.Dark ? "dark" : "light")}_{(settings.Runner == RunnerIcon.Parrot ? "parrot" : "cat")}_{i}"));
-            }
+                try
+                {
+                    if (settings.Runner == RunnerIcon.Parrot || settings.Runner == RunnerIcon.Cat)
+                    {
+                        icon = (Icon)resourceManager.GetObject(
+                            $"{(theme == WindowsTheme.Dark ? "dark" : "light")}_" +
+                            $"{settings.Runner}_" +
+                            $"{i++}");
+                    }
+                    else
+                    {
+                        icon = (Icon)resourceManager.GetObject(
+                            $"{settings.Runner}_" +
+                            $"{i++}");
+                    }
+                    if (icon != null) list.Add(icon);
+                }
+                catch (Exception)
+                { }
+            } while (icon != null);
             icons = list.ToArray();
         }
 

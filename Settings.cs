@@ -104,10 +104,10 @@ namespace RunCat
             return (int)(capacity / 1024 / 1024);
         }
 
-        private RunnerIcon _runner = RunnerIcon.Cat;
-        public RunnerIcon Runner
+        private string _runner = RunnerIcon.Cat;
+        public string Runner
         {
-            get { return _runner; }
+            get { return _runner.ToLower(); }
             set { _runner = value; }
         }
         private PerformanceType _performance = PerformanceType.CPU;

@@ -201,6 +201,1476 @@
       <Version>0.9.6</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_runners_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_runners_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_runners_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_runners_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all_runners_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bird_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bird_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bird_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bird_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bird_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonfire_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonfire_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonfire_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonfire_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonfire_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_b_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_c_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_c_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_c_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_c_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_c_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_tail_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_tail_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_tail_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_tail_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat_tail_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chameleon_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chameleon_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chameleon_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chameleon_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chameleon_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheetah_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheetah_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheetah_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheetah_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheetah_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\city_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogwheel_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogwheel_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogwheel_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogwheel_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cogwheel_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cradle_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cradle_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cradle_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cradle_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cradle_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dinosaur_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogeza_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dots_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dragon_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_13.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\earth_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engine_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_13.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factory_15.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishman_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishman_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishman_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishman_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fishman_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash_cat_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fox_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frypan_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frypan_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frypan_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frypan_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frypan_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming_cat_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ghost_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_cat_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamster_wheel_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamster_wheel_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamster_wheel_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamster_wheel_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hamster_wheel_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedgehog_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedgehog_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedgehog_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedgehog_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedgehog_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\human_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jack_o_lantern_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jack_o_lantern_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jack_o_lantern_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jack_o_lantern_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jack_o_lantern_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteor_cat_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mochi_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mochi_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mochi_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mochi_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mochi_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mock_nyan_cat_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mock_nyan_cat_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mock_nyan_cat_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mock_nyan_cat_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mock_nyan_cat_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octopus_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octopus_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octopus_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octopus_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\octopus_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otter_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\owl_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_parrot_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\party_people_13.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendulum_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendulum_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendulum_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendulum_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pendulum_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin2_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin2_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin2_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin2_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin2_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pig_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pig_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pig_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pig_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pig_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pulse_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puppy_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_up_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_up_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_up_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_up_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\push_up_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabbit_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabbit_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabbit_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabbit_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabbit_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reactor_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reactor_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reactor_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reactor_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reactor_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reindeer_sleigh_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reindeer_sleigh_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reindeer_sleigh_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reindeer_sleigh_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reindeer_sleigh_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocket_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocket_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocket_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocket_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rocket_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotating_sushi_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubber_duck_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubber_duck_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubber_duck_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubber_duck_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubber_duck_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sausage_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sausage_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sausage_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sausage_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sausage_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self_made_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self_made_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self_made_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self_made_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\self_made_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sheep_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sine_curve_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sine_curve_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sine_curve_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sine_curve_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sine_curve_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit_up_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit_up_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit_up_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit_up_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sit_up_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slime_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowman_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowman_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowman_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowman_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowman_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkler_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkler_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkler_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkler_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkler_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squirrel_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squirrel_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squirrel_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squirrel_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\squirrel_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steam_locomotive_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_8.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_12.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_13.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sushi_15.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapioca_drink_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapioca_drink_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapioca_drink_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapioca_drink_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tapioca_drink_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terrier_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terrier_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terrier_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terrier_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terrier_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up_down.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whale_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whale_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whale_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whale_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whale_4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind_chime_0.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind_chime_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind_chime_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind_chime_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wind_chime_4.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="AfterResolveReferences">
     <ItemGroup>

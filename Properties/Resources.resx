@@ -118,8 +118,269 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="all_runners_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\all_runners_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="all_runners_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\all_runners_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="all_runners_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\all_runners_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="all_runners_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\all_runners_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="all_runners_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\all_runners_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="appIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\appIcon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bird_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bird_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bird_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bird_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bird_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bird_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bird_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bird_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bird_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bird_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonfire_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonfire_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonfire_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonfire_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonfire_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonfire_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonfire_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonfire_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bonfire_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bonfire_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="butterfly_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\butterfly_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="butterfly_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\butterfly_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="butterfly_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\butterfly_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="butterfly_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\butterfly_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="butterfly_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\butterfly_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_b_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_b_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_c_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_c_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_c_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_c_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_c_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_c_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_c_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_c_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_c_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_c_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_tail_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_tail_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_tail_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_tail_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_tail_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_tail_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_tail_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_tail_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cat_tail_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cat_tail_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chameleon_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chameleon_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chameleon_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chameleon_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chameleon_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chameleon_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chameleon_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chameleon_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chameleon_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chameleon_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheetah_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheetah_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheetah_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheetah_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheetah_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheetah_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheetah_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheetah_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cheetah_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cheetah_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chicken_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chicken_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="city_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\city_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\coffee_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cogwheel_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cogwheel_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cogwheel_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cogwheel_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cogwheel_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cogwheel_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cogwheel_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cogwheel_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cogwheel_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cogwheel_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cradle_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cradle_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cradle_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cradle_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cradle_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cradle_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cradle_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cradle_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cradle_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cradle_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dark_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dark_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,6 +427,522 @@
   <data name="dark_parrot_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dark_parrot_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dinosaur_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinosaur_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dinosaur_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogeza_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dogeza_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolphin_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolphin_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolphin_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolphin_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolphin_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolphin_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolphin_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolphin_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dolphin_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dolphin_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dots_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dots_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dragon_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dragon_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drop_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drop_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drop_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drop_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drop_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drop_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drop_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drop_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drop_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drop_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_14.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earth_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earth_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="engine_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\engine_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_14.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_15.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="factory_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\factory_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fishman_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fishman_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fishman_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fishman_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fishman_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fishman_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fishman_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fishman_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fishman_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fishman_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="flash_cat_5_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\flash_cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fox_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fox_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fox_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fox_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fox_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fox_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fox_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fox_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fox_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fox_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frog_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frog_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frog_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frog_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frog_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frog_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frog_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frog_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frog_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frog_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frypan_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frypan_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frypan_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frypan_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frypan_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frypan_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frypan_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frypan_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frypan_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frypan_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_10_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gaming_cat_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gaming_cat_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ghost_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ghost_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_10_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="golden_cat_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\golden_cat_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamster_wheel_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamster_wheel_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamster_wheel_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamster_wheel_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamster_wheel_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamster_wheel_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamster_wheel_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamster_wheel_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamster_wheel_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hamster_wheel_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hedgehog_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hedgehog_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hedgehog_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hedgehog_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hedgehog_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hedgehog_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hedgehog_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hedgehog_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hedgehog_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hedgehog_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="horse_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\horse_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="horse_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\horse_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="horse_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\horse_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="horse_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\horse_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="horse_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\horse_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="human_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\human_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="human_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\human_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="human_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\human_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="human_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\human_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="human_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\human_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jack_o_lantern_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jack_o_lantern_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jack_o_lantern_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jack_o_lantern_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jack_o_lantern_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jack_o_lantern_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jack_o_lantern_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jack_o_lantern_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jack_o_lantern_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jack_o_lantern_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="level_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\level_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="light_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\light_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -210,5 +987,698 @@
   </data>
   <data name="light_parrot_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\light_parrot_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meteor_cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteor_cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mochi_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mochi_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mochi_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mochi_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mochi_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mochi_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mochi_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mochi_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mochi_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mochi_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mock_nyan_cat_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mock_nyan_cat_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mock_nyan_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mock_nyan_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mock_nyan_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mock_nyan_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mock_nyan_cat_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mock_nyan_cat_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mock_nyan_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mock_nyan_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouse_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouse_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouse_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouse_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouse_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouse_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouse_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouse_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mouse_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mouse_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octopus_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octopus_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octopus_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octopus_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octopus_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octopus_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octopus_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octopus_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="octopus_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\octopus_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="otter_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\otter_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owl_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owl_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owl_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owl_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owl_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owl_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owl_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owl_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="owl_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\owl_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="parrot_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\parrot_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_parrot_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_parrot_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_people_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_people_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pendulum_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pendulum_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pendulum_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pendulum_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pendulum_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pendulum_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pendulum_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pendulum_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pendulum_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pendulum_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin2_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin2_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin2_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin2_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin2_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin2_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin2_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin2_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin2_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin2_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="penguin_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\penguin_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pig_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pig_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pig_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pig_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pig_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pig_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pig_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pig_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pig_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pig_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pulse_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pulse_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pulse_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pulse_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pulse_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pulse_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pulse_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pulse_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pulse_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pulse_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="puppy_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\puppy_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="puppy_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\puppy_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="puppy_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\puppy_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="puppy_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\puppy_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="puppy_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\puppy_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="push_up_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\push_up_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="push_up_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\push_up_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="push_up_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\push_up_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="push_up_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\push_up_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="push_up_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\push_up_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabbit_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabbit_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabbit_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabbit_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabbit_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabbit_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabbit_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabbit_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rabbit_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rabbit_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reactor_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reactor_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reindeer_sleigh_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reindeer_sleigh_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reindeer_sleigh_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reindeer_sleigh_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reindeer_sleigh_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reindeer_sleigh_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reindeer_sleigh_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reindeer_sleigh_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reindeer_sleigh_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reindeer_sleigh_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rocket_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rocket_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rocket_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rocket_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rocket_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rocket_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rocket_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rocket_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rocket_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rocket_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rotating_sushi_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rotating_sushi_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rubber_duck_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubber_duck_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rubber_duck_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubber_duck_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rubber_duck_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubber_duck_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rubber_duck_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubber_duck_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rubber_duck_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rubber_duck_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sausage_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sausage_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sausage_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sausage_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sausage_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sausage_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sausage_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sausage_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sausage_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sausage_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="self_made_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\self_made_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="self_made_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\self_made_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="self_made_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\self_made_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="self_made_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\self_made_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="self_made_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\self_made_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sheep_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sheep_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sine_curve_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sine_curve_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sine_curve_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sine_curve_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sine_curve_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sine_curve_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sine_curve_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sine_curve_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sine_curve_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sine_curve_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sit_up_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sit_up_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sit_up_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sit_up_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sit_up_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sit_up_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sit_up_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sit_up_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sit_up_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sit_up_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slime_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slime_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slime_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slime_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slime_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slime_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slime_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slime_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slime_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slime_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowman_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowman_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowman_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowman_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowman_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowman_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowman_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowman_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="snowman_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\snowman_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sparkler_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sparkler_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sparkler_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sparkler_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sparkler_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sparkler_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sparkler_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sparkler_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sparkler_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sparkler_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="squirrel_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\squirrel_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="squirrel_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\squirrel_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="squirrel_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\squirrel_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="squirrel_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\squirrel_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="squirrel_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\squirrel_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="steam_locomotive_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\steam_locomotive_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_14.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_15.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sushi_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sushi_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapioca_drink_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapioca_drink_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapioca_drink_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapioca_drink_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapioca_drink_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapioca_drink_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapioca_drink_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapioca_drink_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tapioca_drink_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tapioca_drink_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terrier_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terrier_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terrier_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terrier_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terrier_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terrier_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terrier_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terrier_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terrier_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\terrier_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="up_down" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\up_down.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whale_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whale_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whale_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whale_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whale_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whale_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whale_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whale_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="whale_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\whale_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wind_chime_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wind_chime_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wind_chime_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wind_chime_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wind_chime_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wind_chime_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wind_chime_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wind_chime_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wind_chime_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wind_chime_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
