@@ -323,16 +323,6 @@ namespace RunCat.Properties {
         /// <summary>
         ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Icon cat_5 {
-            get {
-                object obj = ResourceManager.GetObject("cat_5", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Icon cat_b_0 {
             get {
                 object obj = ResourceManager.GetObject("cat_b_0", resourceCulture);
@@ -376,16 +366,6 @@ namespace RunCat.Properties {
         internal static System.Drawing.Icon cat_b_4 {
             get {
                 object obj = ResourceManager.GetObject("cat_b_4", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Icon cat_b_5 {
-            get {
-                object obj = ResourceManager.GetObject("cat_b_5", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }

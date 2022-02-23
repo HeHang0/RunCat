@@ -196,9 +196,6 @@
   <data name="cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="cat_b_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_b_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -213,9 +210,6 @@
   </data>
   <data name="cat_b_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_b_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cat_b_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat_b_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cat_c_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cat_c_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
