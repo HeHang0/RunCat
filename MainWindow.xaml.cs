@@ -5,6 +5,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
 using System.Management;
+using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Forms;
 using System.Windows.Interop;
@@ -87,7 +88,7 @@ namespace RunCat
                 temperatureUsage = new PerformanceCounter("Thermal Zone Information", "Temperature", temperatureInstanceName);
                 _ = temperatureUsage.NextValue(); // discards first return value
             }
-            else if(Hardware.IsRunAsAdmin())
+            else if (Hardware.IsRunAsAdmin())
             {
                 hardware = new Hardware();
                 if (!hardware.CheckTemperature())
@@ -123,6 +124,7 @@ namespace RunCat
                     Tag = value
                 });
             }
+            runnerMenu.Popup += RunnerMenu_Popup;
 
             themeMenu = new MenuItem("Theme", new MenuItem[]
             {
@@ -185,7 +187,7 @@ namespace RunCat
 
             notifyIcon = new NotifyIcon()
             {
-                Icon = Properties.Resources.light_cat_0,
+                Icon = Properties.Resources.appIcon,
                 ContextMenu = new ContextMenu(childen),
                 Text = "",
                 Visible = true,
@@ -195,6 +197,70 @@ namespace RunCat
             CPUTick();
             StartObserveCPU();
             current = 1;
+        }
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto)]
+        static extern bool SetMenuInfo(IntPtr hMenu, MENUINFO lpcmi);
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto)]
+        static extern bool SetMenuItemInfo(IntPtr hMenu, int uItem, bool fByPosition, MENUITEMINFO lpmii);
+
+        [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
+        public class MENUINFO
+        {
+            public int cbSize = Marshal.SizeOf(typeof(MENUINFO));
+            public int fMask = 0x10; //MIM_STYLE
+            public int dwStyle = 0x4000000; //MNS_CHECKORBMP
+            public uint cyMax;
+            public IntPtr hbrBack;
+            public int dwContextHelpID;
+            public IntPtr dwMenuData;
+        }
+
+        [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
+        public class MENUITEMINFO
+        {
+            public int cbSize = Marshal.SizeOf(typeof(MENUITEMINFO));
+            public int fMask = 0x80; //MIIM_BITMAP
+            public int fType;
+            public int fState;
+            public int wID;
+            public IntPtr hSubMenu;
+            public IntPtr hbmpChecked;
+            public IntPtr hbmpUnchecked;
+            public IntPtr dwItemData;
+            public IntPtr dwTypeData;
+            public int cch;
+            public IntPtr hbmpItem;
+        }
+
+        private void RunnerMenu_Popup(object sender, EventArgs e)
+        {
+            var info = new MENUITEMINFO();
+            int i = 0;
+            foreach (MenuItem item in ((Menu)sender).MenuItems)
+            {
+
+                Icon icon = null;
+                try
+                {
+                    icon = (Icon)Properties.Resources.ResourceManager.GetObject($"{item.Tag as string}_0");
+                }
+                catch (Exception)
+                { }
+                if (item.Visible && icon != null)
+                {
+                    try
+                    {
+                        info.hbmpItem = icon.ToBitmap().GetHbitmap();
+                        SetMenuItemInfo(((Menu)sender).Handle, i, true, info);
+                    }
+                    catch (Exception)
+                    {
+                    }
+                    i++;
+                }
+            }
         }
 
         private void MainWindow_SourceInitialized(object sender, EventArgs e)
@@ -347,24 +413,19 @@ namespace RunCat
             {
                 try
                 {
-                    if (settings.Runner == RunnerIcon.Parrot || settings.Runner == RunnerIcon.Cat)
-                    {
-                        icon = (Icon)resourceManager.GetObject(
-                            $"{(theme == WindowsTheme.Dark ? "dark" : "light")}_" +
-                            $"{settings.Runner}_" +
-                            $"{i++}");
-                    }
-                    else
-                    {
-                        icon = (Icon)resourceManager.GetObject(
-                            $"{settings.Runner}_" +
-                            $"{i++}");
-                    }
+                    icon = (Icon)resourceManager.GetObject(
+                        $"{(theme == WindowsTheme.Dark ? "dark_" : "")}" +
+                        $"{settings.Runner}_" +
+                        $"{i++}");
                     if (icon != null) list.Add(icon);
                 }
                 catch (Exception)
                 { }
             } while (icon != null);
+            if(list.Count == 0)
+            {
+                list.Add(Properties.Resources.appIcon);
+            }
             icons = list.ToArray();
         }
 
