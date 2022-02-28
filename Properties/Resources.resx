@@ -2224,9 +2224,6 @@
   <data name="golden_cat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\golden_cat_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="golden_cat_10_b" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\golden_cat_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="golden_cat_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\golden_cat_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -2364,9 +2361,6 @@
   </data>
   <data name="meteor_cat_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\meteor_cat_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="meteor_cat_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\meteor_cat_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mochi_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mochi_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

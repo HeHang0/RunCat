@@ -7083,16 +7083,6 @@ namespace RunCat.Properties {
         /// <summary>
         ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Icon golden_cat_10_b {
-            get {
-                object obj = ResourceManager.GetObject("golden_cat_10_b", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Icon golden_cat_2 {
             get {
                 object obj = ResourceManager.GetObject("golden_cat_2", resourceCulture);
@@ -7546,16 +7536,6 @@ namespace RunCat.Properties {
         internal static System.Drawing.Icon meteor_cat_4 {
             get {
                 object obj = ResourceManager.GetObject("meteor_cat_4", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Icon meteor_cat_5 {
-            get {
-                object obj = ResourceManager.GetObject("meteor_cat_5", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }

@@ -31,6 +31,7 @@ namespace RunCat
         private MenuItem runnerMenu;
         private MenuItem themeMenu;
         private MenuItem performanceMenu;
+        private MenuItem symmetryMenu;
         private MenuItem startupMenu;
         private NotifyIcon notifyIcon;
         private int current = 0;
@@ -46,7 +47,6 @@ namespace RunCat
         {
             if (hardware != null) hardware.Dispose();
             notifyIcon.Dispose();
-            settings.Save();
         }
 
         private string PerformanceInstanceName(string categoryName, string counterName = "")
@@ -178,12 +178,17 @@ namespace RunCat
                 });
             }
 
-            startupMenu = new MenuItem("Startup",  OnSetStartup);
-            if (IsStartupEnabled())
+            startupMenu = new MenuItem("Startup", OnSetStartup)
             {
-                startupMenu.Checked = true;
-            }
-            MenuItem[] childen = new MenuItem[] { runnerMenu, themeMenu, performanceMenu, startupMenu, new MenuItem("Exit", Exit) };
+                Checked = IsStartupEnabled()
+            };
+
+            symmetryMenu = new MenuItem("SymmetryIcon", OnSetSymmetry)
+            {
+                Checked = settings.SymmetryIcon
+            };
+
+            MenuItem[] childen = new MenuItem[] { runnerMenu, themeMenu, performanceMenu, symmetryMenu, startupMenu, new MenuItem("Exit", Exit) };
 
             notifyIcon = new NotifyIcon()
             {
@@ -365,6 +370,7 @@ namespace RunCat
             MenuItem item = (MenuItem)sender;
             UpdateCheckedState(item, performanceMenu);
             settings.Performance = (PerformanceType)item.Tag;
+            settings.Save();
         }
 
         private void SetRunner(object sender, EventArgs e)
@@ -373,6 +379,7 @@ namespace RunCat
             UpdateCheckedState(item, runnerMenu);
             settings.Runner = (string)item.Tag;
             SetIcons();
+            settings.Save();
         }
 
         private void SetTheme(object sender, EventArgs e)
@@ -381,6 +388,7 @@ namespace RunCat
             UpdateCheckedState(item, themeMenu);
             settings.CustomTheme = (WindowsTheme)item.Tag;
             SetIcons();
+            settings.Save();
         }
 
         private void UpdateCheckedState(MenuItem sender, MenuItem menu)
@@ -422,7 +430,12 @@ namespace RunCat
                 catch (Exception)
                 { }
             } while (icon != null);
-            if(list.Count == 0)
+            if (settings.SymmetryIcon)
+            for (i = list.Count - 2; i > 0; i--)
+            {
+                list.Add(list[i]);
+            }
+            if (list.Count == 0)
             {
                 list.Add(Properties.Resources.appIcon);
             }
@@ -433,6 +446,15 @@ namespace RunCat
         {
             startupMenu.Checked = !startupMenu.Checked;
             SetStartup(startupMenu.Checked);
+            settings.Save();
+        }
+
+        private void OnSetSymmetry(object sender, EventArgs e)
+        {
+            symmetryMenu.Checked = !symmetryMenu.Checked;
+            settings.SymmetryIcon = symmetryMenu.Checked;
+            SetIcons();
+            settings.Save();
         }
 
         private void SetStartup(bool start)
