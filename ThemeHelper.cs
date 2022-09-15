@@ -159,6 +159,24 @@ namespace RunCat
         public static string Terrier = "terrier";
         public static string Whale = "whale";
         public static string WindChime = "wind_chime";
+
+        public static bool SymmetryIcon(string iconName)
+        {
+            return SymmetryIconArray.Contains(iconName);
+        }
+
+        private static List<string> _symmetryIconArray = new List<string>();
+        private static List<string> SymmetryIconArray
+        {
+            get
+            {
+                if(_symmetryIconArray.Count == 0)
+                {
+                    _symmetryIconArray.AddRange(new string[] { Butterfly, CatTail, Chameleon, Dogeza, Ghost, JackOLantern, Mochi, Octopus, Pulse, PushUp, Reactor, Sausage, SitUp, Slime, WindChime });
+                }
+                return _symmetryIconArray;
+            }
+        }
     }
 
     public enum PerformanceType

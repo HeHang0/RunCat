@@ -1,5 +1,4 @@
-﻿using OpenHardwareMonitor.Hardware;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -110,8 +109,6 @@ namespace RunCat
             get { return _runner.ToLower(); }
             set { _runner = value; }
         }
-
-        public bool SymmetryIcon { get; set; }
 
         private PerformanceType _performance = PerformanceType.CPU;
         public PerformanceType Performance

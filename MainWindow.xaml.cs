@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Management;
 using System.Runtime.InteropServices;
 using System.Windows;
@@ -27,11 +28,10 @@ namespace RunCat
         private PerformanceCounter memoryAvailable;
         private PerformanceCounter networkTotal = null;
         private PerformanceCounter temperatureUsage = null;
-        private Hardware hardware = null;
+        //private Hardware hardware = null;
         private MenuItem runnerMenu;
         private MenuItem themeMenu;
         private MenuItem performanceMenu;
-        private MenuItem symmetryMenu;
         private MenuItem startupMenu;
         private NotifyIcon notifyIcon;
         private int current = 0;
@@ -45,7 +45,7 @@ namespace RunCat
 
         private void MainWindow_Closing(object sender, CancelEventArgs e)
         {
-            if (hardware != null) hardware.Dispose();
+            //if (hardware != null) hardware.Dispose();
             notifyIcon.Dispose();
         }
 
@@ -88,17 +88,17 @@ namespace RunCat
                 temperatureUsage = new PerformanceCounter("Thermal Zone Information", "Temperature", temperatureInstanceName);
                 _ = temperatureUsage.NextValue(); // discards first return value
             }
-            else if (Hardware.IsRunAsAdmin())
-            {
-                hardware = new Hardware();
-                if (!hardware.CheckTemperature())
-                {
-                    hardware.Dispose();
-                    hardware = null;
-                }
-            }
+            //else if (Hardware.IsRunAsAdmin())
+            //{
+            //    hardware = new Hardware();
+            //    if (!hardware.CheckTemperature())
+            //    {
+            //        hardware.Dispose();
+            //        hardware = null;
+            //    }
+            //}
 
-            runnerMenu = new MenuItem("Runner", new MenuItem[]
+            runnerMenu = new MenuItem(Locale.Runner, new MenuItem[]
             {
                 new MenuItem("Cat", SetRunner)
                 {
@@ -126,36 +126,37 @@ namespace RunCat
             }
             runnerMenu.Popup += RunnerMenu_Popup;
 
-            themeMenu = new MenuItem("Theme", new MenuItem[]
+            themeMenu = new MenuItem(Locale.Theme, new MenuItem[]
             {
-                new MenuItem("Default", SetTheme)
+                new MenuItem(Locale.Default, SetTheme)
                 {
                     Checked = settings.CustomTheme == WindowsTheme.Default,
                     Tag = WindowsTheme.Default
                 },
-                new MenuItem("Light", SetTheme)
+                new MenuItem(Locale.Light, SetTheme)
                 {
                     Checked = settings.CustomTheme == WindowsTheme.Light,
                     Tag = WindowsTheme.Light
                 },
-                new MenuItem("Dark", SetTheme)
+                new MenuItem(Locale.Dark, SetTheme)
                 {
                     Checked = settings.CustomTheme == WindowsTheme.Dark,
                     Tag = WindowsTheme.Dark
                 }
             });
-            if (temperatureUsage == null && hardware == null && settings.Performance == PerformanceType.Temperature)
+            //&& hardware == null
+            if (temperatureUsage == null && settings.Performance == PerformanceType.Temperature)
             {
                 settings.Performance = PerformanceType.CPU;
             }
-            performanceMenu = new MenuItem("Performance", new MenuItem[]
+            performanceMenu = new MenuItem(Locale.Performance, new MenuItem[]
             {
-                new MenuItem("CPU", SetPerformance)
+                new MenuItem(Locale.CPU, SetPerformance)
                 {
                     Checked = settings.Performance == PerformanceType.CPU,
                     Tag = PerformanceType.CPU
                 },
-                new MenuItem("Memory", SetPerformance)
+                new MenuItem(Locale.Memory, SetPerformance)
                 {
                     Checked = settings.Performance == PerformanceType.Memory,
                     Tag = PerformanceType.Memory
@@ -163,32 +164,28 @@ namespace RunCat
             });
             if (networkTotal != null)
             {
-                performanceMenu.MenuItems.Add(new MenuItem("Network", SetPerformance)
+                performanceMenu.MenuItems.Add(new MenuItem(Locale.Network, SetPerformance)
                 {
                     Checked = settings.Performance == PerformanceType.NetWork,
                     Tag = PerformanceType.NetWork
                 });
             }
-            if (temperatureUsage != null || hardware != null)
+            //|| hardware != null
+            if (temperatureUsage != null)
             {
-                performanceMenu.MenuItems.Add(new MenuItem("Temperature", SetPerformance)
+                performanceMenu.MenuItems.Add(new MenuItem(Locale.Temperature, SetPerformance)
                 {
                     Checked = settings.Performance == PerformanceType.Temperature,
                     Tag = PerformanceType.Temperature
                 });
             }
 
-            startupMenu = new MenuItem("Startup", OnSetStartup)
+            startupMenu = new MenuItem(Locale.Startup, OnSetStartup)
             {
                 Checked = IsStartupEnabled()
             };
 
-            symmetryMenu = new MenuItem("SymmetryIcon", OnSetSymmetry)
-            {
-                Checked = settings.SymmetryIcon
-            };
-
-            MenuItem[] childen = new MenuItem[] { runnerMenu, themeMenu, performanceMenu, symmetryMenu, startupMenu, new MenuItem("Exit", Exit) };
+            MenuItem[] childen = new MenuItem[] { runnerMenu, themeMenu, performanceMenu, startupMenu, new MenuItem(Locale.Exit, Exit) };
 
             notifyIcon = new NotifyIcon()
             {
@@ -312,7 +309,7 @@ namespace RunCat
             float m = memoryAvailable.NextValue();
             m = 100 - (m * 100 / MemoryTotleMbytes);
             float s = settings.Performance == PerformanceType.Memory ? m : c;
-            string text = $"CPU: {c:f1}%\nMem: {m:f1}%";
+            string text = $"{Locale.CPU}: {c:f1}%\n{Locale.Memory}: {m:f1}%";
 
             if(networkTotal != null)
             {
@@ -321,11 +318,11 @@ namespace RunCat
                 if (settings.Performance == PerformanceType.NetWork) s = n * 100 / netMaxMB;
                 if(n < 1)
                 {
-                    text += $"\nNetwork: {(n * 1024):f1}KB/s";
+                    text += $"\n{Locale.Network}: {(n * 1024):f1}KB/s";
                 }
                 else
                 {
-                    text += $"\nNetwork: {n:f1}MB/s";
+                    text += $"\n{Locale.Network}: {n:f1}MB/s";
                 }
             }
 
@@ -333,14 +330,14 @@ namespace RunCat
             {
                 float t = temperatureUsage.NextValue() - (float)273.15;
                 if (settings.Performance == PerformanceType.Temperature) s = t;
-                text += $"\nTemperature: {t:f1}℃";
+                text += $"\n{Locale.Temperature}: {t:f1}℃";
             }
-            else if(hardware != null)
-            {
-                float t = hardware.GetTemperature();
-                if (settings.Performance == PerformanceType.Temperature) s = t;
-                text += $"\nTemperature: {t:f1}℃";
-            }
+            //else if(hardware != null)
+            //{
+            //    float t = hardware.GetTemperature();
+            //    if (settings.Performance == PerformanceType.Temperature) s = t;
+            //    text += $"\nTemperature: {t:f1}℃";
+            //}
             notifyIcon.Text = text;
             s = ANIMATE_TIMER_DEFAULT_INTERVAL / (float)Math.Max(1.0f, Math.Min(20.0f, s / 5.0f));
             animateTimer.Stop();
@@ -430,7 +427,7 @@ namespace RunCat
                 catch (Exception)
                 { }
             } while (icon != null);
-            if (settings.SymmetryIcon)
+            if (RunnerIcon.SymmetryIcon(settings.Runner))
             for (i = list.Count - 2; i > 0; i--)
             {
                 list.Add(list[i]);
@@ -446,14 +443,6 @@ namespace RunCat
         {
             startupMenu.Checked = !startupMenu.Checked;
             SetStartup(startupMenu.Checked);
-            settings.Save();
-        }
-
-        private void OnSetSymmetry(object sender, EventArgs e)
-        {
-            symmetryMenu.Checked = !symmetryMenu.Checked;
-            settings.SymmetryIcon = symmetryMenu.Checked;
-            SetIcons();
             settings.Save();
         }
 
