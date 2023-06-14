@@ -267,26 +267,17 @@ namespace RunCat
 
         private void MainWindow_SourceInitialized(object sender, EventArgs e)
         {
-            IntPtr wptr = new WindowInteropHelper(this).Handle;
-            HwndSource hs = HwndSource.FromHwnd(wptr);
-            hs.AddHook(new HwndSourceHook(WndProc));
+            var listener = new ThemeListener(this);
+            listener.ThemeChanged += ThemeChanged;
             Visibility = Visibility.Hidden;
             Hide();
             Init();
         }
 
-        const int WM_DWMCOLORIZATIONCOLORCHANGED = 0x320;
-        IntPtr WndProc(IntPtr hwnd, int msg, IntPtr wParam, IntPtr lParam, ref bool handled)
+        private void ThemeChanged(WindowsTheme theme)
         {
-            switch (msg)
-            {
-                case WM_DWMCOLORIZATIONCOLORCHANGED:
-                    systemTheme = ThemeHelper.GetWindowsTheme();
-                    SetIcons();
-                    return IntPtr.Zero;
-                default:
-                    return IntPtr.Zero;
-            }
+            systemTheme = theme;
+            SetIcons();
         }
 
         private void SetAnimation()
