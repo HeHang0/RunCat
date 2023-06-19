@@ -51,21 +51,27 @@ namespace RunCat
 
         private string PerformanceInstanceName(string categoryName, string counterName = "")
         {
-            PerformanceCounterCategory performanceCounterCategory = new PerformanceCounterCategory(categoryName);
-            if(performanceCounterCategory != null)
+            try
             {
-                var instances = performanceCounterCategory.GetInstanceNames();
-                foreach (string instanceName in instances)
+                PerformanceCounterCategory performanceCounterCategory = new PerformanceCounterCategory(categoryName);
+                if (performanceCounterCategory != null)
                 {
-
-                    foreach (PerformanceCounter counter in performanceCounterCategory.GetCounters(instanceName))
+                    var instances = performanceCounterCategory.GetInstanceNames();
+                    foreach (string instanceName in instances)
                     {
-                        if (string.IsNullOrWhiteSpace(counterName) || counter.CounterName.Contains(counterName))
+
+                        foreach (PerformanceCounter counter in performanceCounterCategory.GetCounters(instanceName))
                         {
-                            return counter.InstanceName;
+                            if (string.IsNullOrWhiteSpace(counterName) || counter.CounterName.Contains(counterName))
+                            {
+                                return counter.InstanceName;
+                            }
                         }
                     }
                 }
+            }
+            catch (Exception)
+            {
             }
             return string.Empty;
         }
